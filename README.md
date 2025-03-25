@@ -19,4 +19,4 @@ The script processes a hitlog CSV file to identify the top 3 most influential ar
     python influential_articles.py
     ```
 
-3. **Output File**: The script will generate an output CSV file with the top 3 influential articles.
+3. **Output File**: The script will generate an output CSV file with the top 3 influential articles
